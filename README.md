@@ -11,7 +11,7 @@
 <tbody>
 <tr>
   <!-- <td style="text-align:center"><img src="https://metrics.lecoq.io/sakshi-124" alt="Sakshi's Github Metrics" /></td> -->
-  <img src = "https://github-readme-stats.vercel.app/api?username=sakshi-124&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff">
+  <td style="text-align:center"><img src = "https://github-readme-stats.vercel.app/api?username=sakshi-124&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="Sakshi's Github Metrics"></td>
 
   <td style="text-align:center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sakshi-124&theme=buefy&hide_border=true" alt="Sakshi's Top Languages"/></a></td>
 </tr>
