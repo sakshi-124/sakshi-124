@@ -30,8 +30,8 @@
  
  <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p><img align="left" src="https://github-readme-stats-nehadadarwala.vercel.app/api/top-langs?username=NehaDadarwala&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-nehadadarwala.vercel.app/api?username=NehaDadarwala&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark&hide=prs,contribs" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats-sakshi-124.vercel.app/api/top-langs?username=sakshi-124&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-sakshi-124.vercel.app/api?username=sakshi-124&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark&hide=prs,contribs" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 <!--
 **NehaDadarwala/NehaDadarwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
