@@ -3,7 +3,7 @@
 - Master studnet at Dalhouise University
 
 ## Social Profile
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:vaidyasakshi434@gmail.com)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/sakshi-124)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/sakshi124/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20'>](mailto:vaidyasakshi434@gmail.com)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/sakshi-124)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/sakshi124/)
 
 ## 🎊 Github Metrices and Languages Used
 <div align="center">
@@ -17,6 +17,5 @@
 </table>
 </div>
 
-## References for making your 😎 README.md
+## References
 - [Awesome Github Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-- [Shields IO](https://shields.io/)
