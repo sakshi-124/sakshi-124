@@ -1,18 +1,6 @@
 <h1 align="center">Hi There, This is Sakshi Vaidya!👋</h1>
 
-<p align="left">
-  <img alt="Dhrumil's Profile Views" src="https://komarev.com/ghpvc/?username=DhrumilShah98&style=flat&color=blue&label=Profile%20View"/>
-  <img alt="Dhrumil's GitHub Followers" src="https://img.shields.io/github/followers/DhrumilShah98?style=flat&color=blue&label=Followers"/>
-  <img alt="Dhrumil's GitHub Stars" src="https://img.shields.io/github/stars/DhrumilShah98?style=flat&color=blue&label=Stars"/>
-  <img alt="MIT LICENCE" src="https://img.shields.io/github/license/DhrumilShah98/DhrumilShah98?style=flat&color=blue&label=Licence"/>
-</p>
-
-- 🔭 Graduated 🎓 from Dalhousie University 🏫 with a Master's degree in Applied Computer Science.
-- 🌱 Currently learning Advanced Android Development, Data Structures, Algorithms, and System Design Concepts.
-- 💬 Ask me about Android Development and Full-stack Web Development (JavaScript).
-- 👨 Pronouns: He/Him
-- ⚡ Fun fact: I love swimming, sketching, playing keyboard, and exploring new places.
-- ✨ [Portfolio](https://dhrumilshah.vercel.app/)
+- Master studnet at Dalhouise University
 
 ## ❤️ Connect With Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:shah.dhrumil1998@gmail.com)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/DhrumilShah98)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/dhrumilshah98/)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/dhrumil.shah1998)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/dhrumil_shah_98/)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/dhrumil_shah_98)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://dhrumilshah.vercel.app/)
