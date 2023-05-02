@@ -10,7 +10,7 @@
 <table>
 <tbody>
 <tr>
-  <td style="text-align:center"><img src="https://metrics.lecoq.io/sakshi-124" alt="Sakshi's Github Metrics" /></td>
+  <!-- <td style="text-align:center"><img src="https://metrics.lecoq.io/sakshi-124" alt="Sakshi's Github Metrics" /></td> -->
   <td style="text-align:center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sakshi-124&theme=buefy&hide_border=true" alt="Sakshi's Top Languages"/></a></td>
 </tr>
 </tbody>
@@ -30,8 +30,8 @@
  
  <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p><img align="left" src="https://github-readme-stats-sakshi-124.vercel.app/api/top-langs?username=sakshi-124&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-sakshi-124.vercel.app/api?username=sakshi-124&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark&hide=prs,contribs" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats-nehadadarwala.vercel.app/api/top-langs?username=sakshi-124&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-nehadadarwala.vercel.app/api?username=sakshi-124&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark&hide=prs,contribs" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 <!--
 **NehaDadarwala/NehaDadarwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
